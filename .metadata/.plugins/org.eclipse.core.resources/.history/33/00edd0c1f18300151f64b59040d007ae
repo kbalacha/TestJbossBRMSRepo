@@ -1,0 +1,7 @@
+package com.west.brickhouse.kaiser.kaisercontactstrategyrules.dataobject;
+
+import java.io.Serializable;
+
+public class GeneralDataObject implements Serializable {
+
+}
